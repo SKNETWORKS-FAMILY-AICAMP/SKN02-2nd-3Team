@@ -32,11 +32,13 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
   효율적이고 확장 가능한 그라디언트 부스팅 알고리즘의 한 형태이다. 분류 및 회귀에 사용되며 성능과 자원 효율이 좋아 자주 사용되는 알고리즘이다.
 
 ## Model Training Results
+|모델명|혼동행렬|ROC Curve 그래프|
+|---|---|---|
 |로지스틱 회귀|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/logi_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/logi_roccurve.png" width = "200" height = "100">|
+
 |의사 결정 나무|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/tree_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/tree_roccurve.png" width = "200" height = "100">|
 |랜덤 포레스트|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/forest_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/forest_roccurve.png" width = "200" height = "100">|
 |XGBoost|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_roccurve.png" width = "200" height = "100">|
-|---|---|---|---|
 
 ## Reference
 - 자료 출처(https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
