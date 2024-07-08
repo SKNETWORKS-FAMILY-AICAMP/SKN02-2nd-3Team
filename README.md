@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/notion-BBFFBB?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/af9b9d42913f4875b7ec9190ec0f1585)
+[<img src="https://img.shields.io/badge/notion-00FFBB?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/af9b9d42913f4875b7ec9190ec0f1585)
 
 ## Objective
 E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
