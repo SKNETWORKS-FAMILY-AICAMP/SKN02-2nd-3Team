@@ -62,8 +62,3 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
   https://www.epnc.co.kr/news/articleView.html?idxno=303682
 
   https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
-
-  https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
-
-  https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181
-  
