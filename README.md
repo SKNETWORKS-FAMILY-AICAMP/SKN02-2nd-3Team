@@ -12,13 +12,13 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 김진유(팀장) 박경희 정우영 정인교
 
 ## Stack
-### 개발환경
+##### 개발환경
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-### 데이터 수집 및 처리
+##### 데이터 수집 및 처리
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-### 웹페이지로 시각화
+##### 웹페이지로 시각화
 <img src="https://img.shields.io/badge/Streamlit-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 
 ## Reference
