@@ -1,13 +1,18 @@
 [<img src="https://img.shields.io/badge/notion-00AA55?style=for-the-badge&logo=notion&logoColor=white"/>](https://wide-neptune-58c.notion.site/af9b9d42913f4875b7ec9190ec0f1585)
 
 ## Objective
-E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측  
+E-commerce Customer Churn Dataset 을 분석하여 향후 고객 이탈 예측을 하고자 한다. 상관계수를 측정하여 Churn과 가장 높은 연관이 있는 항목을 찾아내고 머신러닝(및 딥러닝)에 적용하여 고객 이탈을 막는 방안을 수립한다.
 
 <br/>
 
 ## Project Description
-E Commerce Dataset을 분석하여 향후 고객 이탈 예측을 하고자 한다. 상관계수를 측정하여 Churn과 가장 높은 연관이 있는 항목을 찾아내고 머신러닝(및 딥러닝)에 적용하여 고객 이탈을 막는 방안을 수립한다.
-
+1. 주어진 데이터의 열과 고객 이탈 유무간의 상관계수를 도출한다.
+2. 필요한 데이터 열을 가공하여 이탈유무와 상관계수가 높은 열을 만들어 낸다.
+3. 머신러닝 분류 모델 중 정확도와 AUC가 높은 분류 모델을 찾아낸다.
+4. 선정한 모델에 대해 GridSearchCV를 이용해 최적의 하이퍼파라미터를 찾아낸다.
+5. 분석한 내용을 직관적인 시각화 자료로 표현한다.
+6. 최종적으로 주어진 신규 데이터에 대하여 해당 고객의 이탈 확률을 출력해주는 기능을 구현한다.
+   
 <br/>
 
 ## Reason for selecting dataset
