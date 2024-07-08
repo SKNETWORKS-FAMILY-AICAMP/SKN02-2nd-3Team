@@ -61,7 +61,7 @@ E-commerce Customer Churn Dataset 을 분석하여 향후 고객 이탈 예측�
 <br/>
 
 ## Clustering Result
-<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/Clustering_result.png">PCA(n_components=5), KMeans(n_clusters=6)
+<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/clustering_result.png">PCA(n_components=5), KMeans(n_clusters=6)
 
 ## Model Training Results
 |모델명|혼동행렬|ROC Curve 그래프|
