@@ -4,7 +4,7 @@
 E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 
 ## Project Description
-1. 주어진 데이터의 열과 고객 이탈 유무간의 상관계수를 도출
+1. 주어진 데이터의 열과 고객 이탈 유무간의 상관계수를 도출한다.
 2. 필요한 데이터 열을 가공하여 이탈유무와 상관계수가 높은 열을 만들어 낸다.
 3. 머신러닝 분류 모델 중 정확도와 AUC가 높은 분류 모델을 찾아낸다.
 4. 선정한 모델에 대해 GridSearchCV를 이용해 최적의 하이퍼파라미터를 찾아낸다.
@@ -48,6 +48,9 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 |의사 결정 나무|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/tree_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/tree_roccurve.png" width = "300" height = "250">|
 |랜덤 포레스트|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/forest_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/forest_roccurve.png" width = "300" height = "250">|
 |XGBoost|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_output.png">|<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/xgb_roccurve.png" width = "300" height = "250">|
+
+## Streamlit 구현
+<img src = "https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-3Team/blob/main/img/%ED%9A%8C%EC%9B%90%EC%9D%B4%ED%83%88%20%ED%99%95%EB%A5%A0%EC%98%88%EC%B8%A1.png">
 
 ## Reference
 - 자료 출처
