@@ -85,13 +85,13 @@ E-commerce Customer Churn Dataset 분석을 통한 고객이탈 예측
 ## Reference
 - 자료 출처
 
-  [E-commerce Customer Churn Dataset] (https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
+  [E-commerce Customer Churn Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
 
   
 - 참고 사이트
 
-  [산업포커스] (https://www.kaggle.com/code/yasinmhmd/e-commerce-churn-99-accuracy)
+  [산업포커스](https://www.kaggle.com/code/yasinmhmd/e-commerce-churn-99-accuracy)
 
-  [최신 산업정보] (https://www.epnc.co.kr/news/articleView.html?idxno=303682)
+  [최신 산업정보](https://www.epnc.co.kr/news/articleView.html?idxno=303682)
 
-  [인베스트코리아] (https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181)
+  [인베스트코리아](https://www.investkorea.org/ik-kr/bbs/i-112/detail.do?ntt_sn=491181)
