@@ -1,0 +1,11 @@
+SatisfactionScore,PreferredPaymentMode,OrderAmountHikeFromlastYear,Tenure,HourSpendOnApp,CashbackAmount,CouponUsed,WarehouseToHome,MaritalStatus,DaySinceLastOrder
+1,Credit Card,17.0,19.0,3.0,177,2.0,9.0,Single,4.0
+2,CC,15.0,13.0,,127,1.0,25.0,Divorced,7.0
+3,Debit Card,23.0,4.0,4.0,152,2.0,31.0,Married,1.0
+2,Debit Card,13.0,6.0,4.0,148,1.0,7.0,Married,3.0
+4,Debit Card,12.0,,3.0,114,0.0,8.0,Single,0.0
+3,E wallet,13.0,0.0,,129,1.0,11.0,Single,0.0
+3,Credit Card,22.0,1.0,3.0,160,4.0,30.0,Married,9.0
+1,Credit Card,,22.0,3.0,297,2.0,29.0,Married,8.0
+3,COD,17.0,1.0,3.0,146,3.0,17.0,Married,3.0
+3,COD,11.0,12.0,3.0,146,2.0,8.0,Single,10.0
